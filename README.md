@@ -4,10 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsayushmathur&label=Profile%20views&color=0e75b6&style=flat" alt="itsayushmathur" /> </p>
 
 - 📫 How to reach me **mathurayush121@gmail.com**
-# 💫 About Me:
-I'm currently working on: Developing interactive and user-friendly applications with a focus on delivering exceptional user experiences.<br><br>I'm looking to collaborate on: Exciting open source projects or innovative web development ventures that push the boundaries of technology and creativity.<br><br>I'm looking for help with: Exploring new frontend frameworks and staying updated with the latest design trends to create visually stunning and intuitive interfaces.<br><br>I'm currently learning: Advanced JavaScript concepts, frontend frameworks like React, and mastering CSS animations. Additionally, I'm diving into the powerful and efficient Tailwind CSS framework to streamline my development process.<br><br>Ask me about: Frontend development, HTML, CSS, JavaScript, or anything related to web technologies. I have a solid foundation in backend development as well, so feel free to ask me about that too!<br><br>Fun fact: I find solace in exploring various genres of music and discovering new songs. It's a source of inspiration and creativity for me, and I enjoy the way it can evoke emotions and set the tone for different moods and experiences.
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsayushmathur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itsayushmathur) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/its_ayushmathur) 
 
